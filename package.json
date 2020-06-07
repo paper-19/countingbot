@@ -1,0 +1,11 @@
+{
+  "name": "counting-bot",
+  "version": "1.0.0",
+  "description": "idk some player wanted a channel where players literally just count, so I created this bot to help enforce the counting lol. :^)",
+  "main": "bot.js",
+  "author": "W_T",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "winston": "^3.2.1"
+  }
+}
